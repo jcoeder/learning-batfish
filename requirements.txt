@@ -1,4 +1,6 @@
+pybatfish
 batfish
+ipython
 napalm
 netmiko
 ansible
